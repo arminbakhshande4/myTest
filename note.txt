@@ -1,2 +1,4 @@
 change bug
 change bug 2
+
+change in newBranch
